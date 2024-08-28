@@ -1,0 +1,66 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: black;
+    color: white;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    width: 100%;
+  }
+  
+  .container {
+    padding: 20px;
+    margin-top: 30px;
+    width: 100%;
+    padding-right: 250px;
+    background-color:black;
+  }
+  
+  input {
+    margin: 20px 0;
+    padding: 15px;
+    width: 420px;
+    border: 1px solid #ccc;
+    border-radius: 2px;
+    background-color: black;
+    color: white;
+    padding-right: 300px;
+  }
+
+  #sort-market-cap{
+    padding: 15px;
+    border: none;
+    border-radius: 2px;
+    cursor: pointer;
+    background-color: black;
+    color: white;
+    border: 1px solid #ccc;
+  }
+
+  #sort-percentage-change{
+    padding: 15px;
+    border: none;
+    border-radius: 2px;
+    cursor: pointer;
+    background-color: black;
+    color: white;
+    border: 1px solid #ccc;
+  }
+
+  table {
+    width: 60%;
+    margin-top: 20px;
+    margin-left: 270px;
+  }
+
+  th, td {
+    padding: 10px;
+    border: none;
+    border-bottom: 1px solid #ccc;
+  }
+  
+  img {
+    vertical-align: middle;
+    text-align: center;
+    padding: 10px 20px;
+  }
